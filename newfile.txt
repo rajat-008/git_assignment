@@ -1,0 +1,7 @@
+Hello
+This is a new file
+Making changes
+and commiting
+but yes, i've to stage them before that
+so yeah
+see ya
